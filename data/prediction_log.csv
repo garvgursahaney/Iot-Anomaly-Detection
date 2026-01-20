@@ -1,0 +1,2 @@
+timestamp,temperature,humidity,sound,anomaly_score,is_anomaly
+2026-01-20T11:09:17.044773,70.0,40.0,30.0,0.17512521265655984,False
