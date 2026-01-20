@@ -1,0 +1,9 @@
+To run this code, the following are required to already be installed
+python
+flask
+numpy
+scikit-learn
+joblib
+panda
+matplotlib
+requests
